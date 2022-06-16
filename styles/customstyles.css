@@ -1,0 +1,45 @@
+.footer {
+    bottom: 0px;
+    border-style:solid;
+    width: 100%;
+    height: 150px;
+    background-color: white;
+    text-align: center;
+    position: fixed;
+    color: black;
+    border-top: 1px;
+}
+.margin-right10 {
+    margin-right: 10px;
+}
+.caption {
+    color: darkgrey;
+    font-size: 12px;
+        
+}
+.blue {
+    color:blue;
+}
+.tabcolor {
+    color:darkcyan;
+
+}
+
+.resumecolor {
+    color: #2165b8;
+}
+.aboutmecolor {
+    color: #1d3ea1;
+}
+.justify {
+    align-items: center;
+}
+
+.mybold {
+    font-weight: bold;
+}
+
+.myfont {
+    font-family: serif;
+    text-decoration: underline;
+}
